@@ -1,0 +1,11 @@
+{
+  "copyright": "© 2026 Your Company. All rights reserved.",
+  "links": [
+    { "label": "Privacy Policy", "href": "/privacy" },
+    { "label": "Imprint", "href": "/imprint" }
+  ],
+  "social": [
+    { "platform": "twitter", "url": "https://twitter.com/yourcompany" },
+    { "platform": "linkedin", "url": "https://linkedin.com/company/yourcompany" }
+  ]
+}

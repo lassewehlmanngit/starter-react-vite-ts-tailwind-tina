@@ -1,0 +1,7 @@
+{
+  "siteName": "Marketing Site Starter",
+  "siteDescription": "Eine moderne, inhaltsgetriebene Marketing-Website mit React, Vite, TypeScript, Tailwind CSS und TinaCMS.",
+  "defaultOgImage": "/images/og-default.png",
+  "gtmId": "",
+  "sentryDsn": ""
+}

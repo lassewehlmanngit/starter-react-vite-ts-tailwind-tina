@@ -1,0 +1,35 @@
+{
+  "brandTagline": "React + Vite + TypeScript + Tailwind + TinaCMS",
+  "navigation": {
+    "mainNavigation": "Hauptnavigation",
+    "mobileNavigation": "Mobile Navigation",
+    "openMenu": "Menü öffnen",
+    "menu": "Menü",
+    "skipToContent": "Zum Hauptinhalt springen"
+  },
+  "actions": {
+    "close": "Schließen",
+    "dismiss": "Verwerfen",
+    "submit": "Absenden",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "loading": "Wird geladen..."
+  },
+  "status": {
+    "success": "Erfolg",
+    "error": "Fehler",
+    "warning": "Warnung",
+    "info": "Information"
+  },
+  "validation": {
+    "required": "Dieses Feld ist erforderlich",
+    "email": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "minLength": "Muss mindestens {{min}} Zeichen lang sein",
+    "maxLength": "Darf höchstens {{max}} Zeichen lang sein"
+  },
+  "footer": {
+    "copyright": "Alle Rechte vorbehalten."
+  }
+}
